@@ -10,10 +10,15 @@ paired with a Javalin Based GUI.
 
 Technical Guide and File Paths for Features:
 ● The Dependencies are being managed with Maven.
+
 ● The GUI has been made through Javalin Package.
+
 ● The Features are present in the features package in the source folder.
+
 ● The Code for the Web scraper is in the scraper package
+
 ● The Code for the GUI is present in the GUI Folder
+
 ● The main package contains the main.java file which has all the function calls and
 the function which is called by the GUI to search for the results.
 
