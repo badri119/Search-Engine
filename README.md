@@ -15,7 +15,7 @@ Technical Guide and File Paths for Features:
 
 ● The Features are present in the features package in the source folder.
 
-● The Code for the Web scraper is in the scraper package
+● The Code for the Web scraper is in the scraper package.
 
 ● The Code for the GUI is present in the GUI folder.
 
